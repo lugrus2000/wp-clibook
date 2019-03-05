@@ -1,2 +1,3 @@
 require:
   - bin/command.php
+  config.md
